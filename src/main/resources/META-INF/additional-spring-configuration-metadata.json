@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "google.cloud.api-key",
+      "type": "java.lang.String",
+      "description": "Google Cloud Platform API Key."
+    }
+  ]
+}
